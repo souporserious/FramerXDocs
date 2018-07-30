@@ -2,7 +2,7 @@
 
 * [Framer X](README.md)
 * [Getting Started](introduction/README.md)
-  * [Welcome to Beta 1](introduction/welcome-to-beta-1.md)
+  * [Beta Program](introduction/beta.md)
   * [Starting from Framer](introduction/starting-from-framer.md)
   * [Starting from ...](introduction/starting-from-....md)
 * [Canvas \(WIP\)](canvas.md)
@@ -20,4 +20,11 @@
     * [Interpolation](application/framer.js-library/interpolation.md)
     * [Components](application/framer.js-library/components.md)
     * [Events and Gestures](application/framer.js-library/events-and-gestures.md)
+* [Guides \(WIP\)](guides-wip/README.md)
+  * [React Component Authors](guides-wip/react-component-authors.md)
+  * [Tutorials](guides-wip/tutorials/README.md)
+    * [Todo App](guides-wip/tutorials/todo-app.md)
+    * [Scroll Header](guides-wip/tutorials/scroll-header.md)
+    * [Login Form](guides-wip/tutorials/login-form.md)
+    * [Bottom Tab Bar](guides-wip/tutorials/bottom-tab-bar.md)
 

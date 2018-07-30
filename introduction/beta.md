@@ -5,7 +5,37 @@ description: >-
   possible.
 ---
 
-# Welcome to Beta 1
+# Beta Program
+
+## Beta Program
+
+The Framer X beta program was designed to both get feedback from our most advanced users and ensure the application is in a great state when released to the general public. The idea is to quickly invite new users as long as we don't run into serious technical or user experience issues that block usage.
+
+## Beta Features
+
+An overview of the current feature state:
+
+1. **Beta I – August 1st, 2018** Majority of the design features, design components, basic store functionality and code components are ready for testing. The Framer.js library is only partly available, and code functions are missing.
+2. **Beta II – TBD** Focus on supporting the previous Framer workflow with code functions, state management, using design components from code, code exporting and a more complete Framer.js library.
+
+### Feature Overview
+
+Items ~~crossed out~~ are not on beta yet, but planned for release and should show up in a later beta.
+
+* **Interface:** login, signup, canvas, properties, tools, layers, components, store.
+* **Canvas:** navigation, selection, editing.
+* **Layout:** \(auto\) hierarchy, \(auto\) positioning, frames, images, text, stacks.
+* **Drawing:** shapes, path editing, styling, grouping, boolean operations.
+* **Import / Export:** paste, Sketch paste, image exporting, SVG exporting, ~~code export~~.
+* **Preview:** window, frame selection, device, presentation mode, ~~mobile preview~~, ~~remote preview~~, ~~inspector~~, ~~print~~.
+* **Interactive:** link, scroll, page.
+* **Design Components:** panel, ~~organization~~, search, master, instance, overrides, nesting, ~~use from code~~.
+* **Store:** browse, search, install, ~~update~~, ~~private company store~~.
+* **Sharing:** ~~cloud~~, ~~web project~~.
+* **Code Components:** creation, editing, interface props, canvas children.
+* **Code Functions:** ~~creation~~, ~~editing~~, ~~state~~.
+* **Code Library:** animation, ~~interpolation~~, ~~events~~, ~~gestures,~~ ~~components~~.
+* **Packages:** publish, update, versioning, dependencies.
 
 ## How You can Help
 
@@ -31,7 +61,7 @@ Framer X won’t generate code for you, but instead use the code you \(or someon
 
 While Framer X looks very similar to other design tools on the surface, there are some differences that can throw you off if you are not prepared. These are the most common ones we see:
 
-* Understand the main ideas behind Framer X \(see previous [paragraph](welcome-to-beta-1.md#how-to-think-about-framer-x)\).
+* Understand the main ideas behind Framer X \(see previous [paragraph](beta.md#how-to-think-about-framer-x)\).
 * Learn the difference between
   * Frames and Shapes \(or, layout and drawing\).
   * Design Components and Code Components.
@@ -40,16 +70,5 @@ While Framer X looks very similar to other design tools on the surface, there ar
   * Temporarily disable the hierarchy guessing system while manipulating objects.
 * Learn how to import your designs from Sketch through copy paste.
 
-## What is missing in Beta 1
 
-Betas are never complete. The features below are currently missing but planned for general release. You should see them land with every new update.
-
-* Cloud uploading and sharing.
-* Mobile device previewing.
-* Advanced preview options \(devices\).
-* Editing components from installed packages.
-* Converting design components to code \(jsx\). 
-* Framer.js Library: gestures, events, interpolation, components.
-
-Let us know if you think anything is missing.
 

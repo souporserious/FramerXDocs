@@ -1,14 +1,14 @@
 ---
 description: >-
-  This page will help you get started best with the context of coming from any
-  visual, page flow or other prototyping tool.
+  If you are a current Framer user, this page will help you to get up and
+  running.
 ---
 
 # Starting from Framer
 
-## Legacy Framer
+## 
 
-### Overview
+## Overview
 
 Framer X is quite different from legacy Framer at first sight. But it builds on everything that made the original Framer great with an improved approach, and solving some long standing problems like package collaboration.
 
@@ -22,7 +22,14 @@ We strongly believe Framer X is better as legacy Framer from a prototyper progra
 
 ### Workflow
 
+Make sure you setup VSCode for external editing.
 
+* Create a single code component and return some html.
+* Create a `Frame` component with an animated property, an `onClick` event and use the `animate()` function to animate the property.
+* ~~Use a design component from the canvas in code and manipulate it.~~  _This is what old Framer could do, now let's take it further._ 
+* Use the `componentDidMount` lifecycle handler to fetch data and update itself.
+* Create another code component in the same file and use it a few times.
+* ~~Use a code component on the canvas and attach a function with state and an event handler modifying the state.~~
 
 ### JavaScript \(ES6\)
 
