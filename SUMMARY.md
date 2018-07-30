@@ -3,6 +3,8 @@
 * [Framer X](README.md)
 * [Getting Started](introduction/README.md)
   * [Welcome to Beta 1](introduction/welcome-to-beta-1.md)
+  * [Starting from Framer](introduction/starting-from-framer.md)
+  * [Starting from ...](introduction/starting-from-....md)
 * [Canvas \(WIP\)](canvas.md)
 * [Layout \(WIP\)](layout.md)
 * [Drawing \(WIP\)](drawing-wip.md)
