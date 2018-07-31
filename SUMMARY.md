@@ -5,7 +5,7 @@
   * [Beta Program](introduction/beta.md)
   * [Starting from Framer](introduction/starting-from-framer.md)
   * [Starting from ...](introduction/starting-from-....md)
-* [Canvas \(WIP\)](canvas.md)
+* [Canvas](canvas.md)
 * [Layout \(WIP\)](layout.md)
 * [Drawing \(WIP\)](drawing-wip.md)
 * [Preview \(WIP\)](preview.md)
