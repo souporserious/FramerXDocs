@@ -1,6 +1,0 @@
----
-description: TBD
----
-
-# Layout \(WIP\)
-
