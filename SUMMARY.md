@@ -4,7 +4,7 @@
 * [Getting Started](introduction/README.md)
   * [Beta Program](introduction/beta.md)
   * [Starting from Framer](introduction/starting-from-framer.md)
-  * [Starting from ...](introduction/starting-from-....md)
+  * [Starting from ... \(WIP\)](introduction/starting-from-....md)
 * [Canvas](canvas/README.md)
   * [Layout \(WIP\)](canvas/layout.md)
   * [Drawing \(WIP\)](canvas/drawing-wip.md)

@@ -6,7 +6,7 @@ description: >-
 
 # Starting from Framer
 
-## 
+**Warning:** _**in Beta 1, our code features are a work in progress and incomplete. Therefore it will be rough to replicate your classic Framer workflow in Framer X for another week or two. Thanks for your patience.**_
 
 ## Overview
 
@@ -21,6 +21,8 @@ The biggest surface differences are:
 We strongly believe Framer X is better as legacy Framer from a prototyper programming perspective. It will allow you to build both very small high fidelity throw away prototypes all the way to production ready complex projects, if you like. The new declarative programming model with components will help you structure and organize your projects, make them easier to reason about for yourself and others, yet is completely optional if you have another preferred way of working.
 
 ### Workflow
+
+**Warning:** _**few of these steps are currently unavailable in Beta 1. These steps are merely to illustrate what we're planning for release.**_
 
 Make sure you setup VSCode for external editing.
 
