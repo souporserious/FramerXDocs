@@ -1,6 +1,6 @@
 # Drawing \(WIP\)
 
-For Marciano
+Todo:
 
 * Explain that drawing is for icons
 * Explain inserting shapes

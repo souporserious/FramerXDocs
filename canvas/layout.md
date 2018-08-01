@@ -1,10 +1,6 @@
----
-description: TBD
----
-
 # Layout \(WIP\)
 
-For Marciano
+Todo:
 
 * Port over old content
 * Explain frames versus shapes
