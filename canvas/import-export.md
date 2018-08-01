@@ -1,4 +1,4 @@
-# Import / Export \(WIP\)
+# Import / Export
 
 ## Import
 

@@ -1,4 +1,4 @@
-# Drawing \(WIP\)
+# Drawing
 
 Apart from being a great layout tool, Framer is also the tool to create your icons and logos in. We have a wide set of options for you to create with:
 

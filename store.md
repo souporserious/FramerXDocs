@@ -1,12 +1,4 @@
-# Store \(WIP\)
+# Store
 
-Browse
-
-Search
-
-Install
-
-Update
-
-Publish
+This section of the docs is coming soon.
 

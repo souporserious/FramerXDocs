@@ -1,4 +1,4 @@
-# Interactive \(WIP\)
+# Interactive
 
 ## Link tool
 

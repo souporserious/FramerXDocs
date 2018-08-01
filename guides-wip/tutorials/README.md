@@ -1,2 +1,4 @@
-# Tutorials \(WIP\)
+# Tutorials
+
+The tutorials section is coming soon.
 

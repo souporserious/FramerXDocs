@@ -1,4 +1,4 @@
-# Preview \(WIP\)
+# Preview
 
 Framer X has a Preview window which allows you to see an accurate and live representation of anything that you are creating. And it does so interactively! Just hop into Preview mode by tapping the PLay icon in the top right corner or hit CMD + P to see it in action.
 

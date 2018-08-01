@@ -1,3 +1,10 @@
+---
+description: >-
+  Please note that these docs are a living document and each topic is a
+  work-in-progress and will be updated continuously. If you are missing any
+  content please check back in a few days.
+---
+
 # Getting Started
 
 ## Minimum Requirements

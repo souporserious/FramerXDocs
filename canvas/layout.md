@@ -1,4 +1,4 @@
-# Layout \(WIP\)
+# Layout
 
 ## **Frames and Shapes**
 
