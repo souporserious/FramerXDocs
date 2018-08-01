@@ -26,6 +26,10 @@ Here’s an overview of the specific features and tools included in this plugin:
 
 ## Export
 
+This section covers exporting from Framer X. Export screens and assets to start developing your designs or copy CSS values for your next web design project.
+
+Exporting works exactly as you’d expect. You can create multiple exports for a single frame or shape to cater to multiple resolutions. Simply select a layer and hit export in the bottom right corner of Framer. Select one of the pre-made presets or add your own. Adding a suffix to the preset will append this to your file name. Clicking the **suffix** dropdown allows you to save assets to organized folders.
+
 You can export your Frames to:
 
 * PNG
@@ -42,6 +46,8 @@ You can export your Shapes
 * WEBP
 * SVG
 * PDF
+
+And we support different sizes to export to, such as 0.5x, 1x, 1.5x, 2x, 3x and 4x.
 
 
 
