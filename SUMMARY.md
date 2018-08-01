@@ -23,7 +23,7 @@
     * [Components](application/framer.js-library/components.md)
     * [Events and Gestures](application/framer.js-library/events-and-gestures.md)
 * [Guides \(WIP\)](guides-wip/README.md)
-  * [React Component Authors \(WIP\_](guides-wip/react-component-authors.md)
+  * [React Component Authors \(WIP\)](guides-wip/react-component-authors.md)
   * [Tutorials](guides-wip/tutorials/README.md)
     * [Todo App](guides-wip/tutorials/todo-app.md)
     * [Scroll Header](guides-wip/tutorials/scroll-header.md)

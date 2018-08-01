@@ -2,7 +2,7 @@
 description: How to optimize your external React components for usage in Framer.
 ---
 
-# React Component Authors \(WIP\_
+# React Component Authors \(WIP\)
 
 * How we render components on the canvas
   * Container `Frame`
