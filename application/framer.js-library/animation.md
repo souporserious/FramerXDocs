@@ -79,7 +79,7 @@ export class Example extends React.Component {
 }
 ```
 
-When using await your function has to be marked `async`. This is how JavaScript works, so notice `async` next to the `onClick` function. From there you can see we use `await` with `.finish` on the animation to wait before running the next line of code, so that the animation only starts with the previous one is done. If you were to remove the await keywords, both animations would start immediately.  
+When using `await` your function has to be marked `async`. This is how JavaScript works, so notice `async` next to the `onClick` function. From there you can see we use `await` with `.finish` on the animation to wait before running the next line of code, so that the animation only starts with the previous one is done. If you were to remove the await keywords, both animations would start immediately.  
   
 The other available events are:
 
