@@ -2,7 +2,8 @@
 
 ## Overview
 
-In Framer X, you animate values instead of objects. A value can be a number, color or even string. If you use these values on any Framer component \(like the left property of a Frame\) they will animate very efficiently.  
+In Framer X, you animate _values_ instead of _objects_. A value can be a number, color or even string. If you use these values on any Framer component \(like the left property of a Frame\) they will animate very efficiently.  
+  
 The programming API for Framer Animations are loosely based on the standard [Web Animation API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API). It consists of the following parts:
 
 * **Animatable values**: the values that can be animated: number,  color and string.
@@ -10,6 +11,8 @@ The programming API for Framer Animations are loosely based on the standard [Web
 * **Animation curves**: curves for different animations like linear, spring or bezier.
 * **Animation object**: the actual animation that you can control with play, pause and reverse.
 * **Animation events:** things that happen to animations like start, finish and cancel.
+
+_**Note**: the Framer animation approach is loosely based on_ [_React Native Animated_](https://facebook.github.io/react-native/docs/animated)_._
 
 ## Usage
 
@@ -86,7 +89,7 @@ The other available events are:
 
 ## Technical Information
 
-* Animations only work with Framer components.
+* Animations only work with Framer components \(as we directly modify the DOM\).
 * Animations are technically observables, much like [React Animated](https://facebook.github.io/react-native/docs/animated).
 * Animations directly modify the DOM for performance, so they don’t trigger React tree diffs.
 * Animations in Framer are cross browser compatible from IE8 and up.
