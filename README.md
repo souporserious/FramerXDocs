@@ -7,7 +7,7 @@ Thanks for joining the beta program. This guide is very much a work in progress 
 ### The Best Way to Start; TLDR
 
 * Read how to think about Framer X and supported design work below.
-* Read the [beta program page](introduction/beta.md) on what to expect in Beta 1. _**Hint**: some of the code parts are still in progress \(code functions, state\)._
+* Read the [beta program page](introduction/beta.md) on what to expect in Beta 1. _**Hint**: some of the code parts are still in progress \(code functions, state\), and being offline will cause some issues._
 * Explore the canvas, automatic layout, styling, stacks, design components, flow and scroll interactions, using the store to install packages and build a simple React component yourself.
 
 ## How to Think About Framer X
