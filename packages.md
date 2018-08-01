@@ -1,2 +1,6 @@
 # Packages \(WIP\)
 
+* Packages are just zipped JavaScript packages that we manage.
+* You can reveal the contents of a package with File -&gt; Show Package.
+  * The package files disappear once you close a Framer project.
+
