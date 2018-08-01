@@ -39,15 +39,23 @@ You can export your Frames to:
 
 _You can also copy the CSS code from your Frame directly._
 
-You can export your Shapes
+### **CSS & SVG Exporting**
 
-* PNG
-* JPG
-* WEBP
-* SVG
-* PDF
+Right-click a layer and select **Copy CSS** to copy the CSS values or **Copy SVG** to copy the SVG values of the selected layer to your clipboard. Then paste perfectly formatted CSS or SVG code directly in your favorite editor to speed up your development workflow.
 
-And we support different sizes to export to, such as 0.5x, 1x, 1.5x, 2x, 3x and 4x.
+### **Quick Exporting**
 
+Framer X allows for quick exporting just by right-clicking on a layer. Select **Copy Image** or hit `CMD` `C` to copy the selected item to your clipboard. You can paste to any app that supports pasting images, easily add your exports to documents, create quick mocks, or gather feedback in chat apps.
 
+### **Exporting Presets**
+
+Framer has a few pre-loaded exporting presets. The iOS and Android presets contain all of the platform-specific sizes you’ll need for development. You can always add your own custom preset by hitting the `+` icon in the export panel.
+
+**iOS Size Presets:**
+
+ `1x`  `2x`  `3x` 
+
+**Android Size Presets**
+
+ `1x`  `1.5x`  `2x` `3x` `4x` 
 
