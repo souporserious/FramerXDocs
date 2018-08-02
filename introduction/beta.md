@@ -51,10 +51,10 @@ You can reach us via Facebook, Slack, Email or Twitter.
 
 While Framer X looks very similar to other design tools on the surface, there are some differences that can throw you off if you are not prepared. These are the most common ones we see:
 
-* Understand the main ideas behind Framer X \(see previous [paragraph](beta.md#how-to-think-about-framer-x)\).
+* Understand the main ideas behind Framer X.
 * Learn the difference between
-  * Frames and Shapes \(or, layout and drawing\).
-  * Design Components and Code Components.
+  * [Frames and Shapes](../canvas/layout.md#frames-and-shapes) \(or, layout and drawing\).
+  * [Design Components and Code Components](../application/components.md#types-of-components).
 * Learn how to use the command key to:
   * Select any object directly on the canvas independent of the hierarchy.
   * Temporarily disable the hierarchy guessing system while manipulating objects.
