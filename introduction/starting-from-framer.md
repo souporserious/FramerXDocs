@@ -22,7 +22,7 @@ We strongly believe Framer X is better as legacy Framer from a prototyper progra
 
 ### Workflow
 
-**Warning:** _**few of these steps are currently unavailable in Beta 1. These steps are merely to illustrate what we're planning for release.**_
+**Warning:** _**few of these steps are currently**_ ~~_**unavailable**_~~ _**in Beta 1. These steps are merely to illustrate what we're planning for release.**_
 
 Make sure you setup VSCode for external editing.
 
