@@ -1,4 +1,6 @@
-# Functions
+# Functions 
+
+_(not yet available in beta 1)_
 
 ## Use Case
 
