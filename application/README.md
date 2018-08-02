@@ -2,11 +2,11 @@
 
 ## Code in Framer
 
-Framer X let’s you do advanced interactive design without using a line of code, either by using the interactive tools, or by using components from the store that were built by others. If you are looking to build your own components you can use code to make them do anything.
+Framer X lets you do advanced interactive design without using a line of code; either by using the interactive tools, or by using components from the store that were built by others. If you are looking to build your own components, you can use code to make them do anything.
 
-Framer X uses code in a different way then you might be used to from a design tool. Framer X does not generate code for you from your designs, but instead it uses code that you wrote compose interfaces. This is better because:
+Framer X uses code in a different way than you might be used to from a design tool. Framer X does not generate code for you from your designs, but instead it uses code that you wrote compose interfaces. This is better because:
 
-* You can share code with production, your design component can be the exact same version that runs on your production website, so there is a single source of truth.
+* You can share code with production. Your design component can be the exact same version that runs on your production website, so there is a single source of truth.
 * Auto generated code ultimately almost never ends up in production, developers want to have full control over every aspect and will typically always \(re\)write it by hand according to internal standards and processes. 
 
 ## Types of Code
@@ -21,7 +21,7 @@ Framer uses code in two distinct places: **components** and **functions**.
 
 ## Overview
 
-All code in Framer is expressed in plain **React** using **JavaScript ES6**. A component can be as simple as just one html tag with some css, all the way to a very complex media player with rich interactions. This also means that people with a variety of skill can make components. If you know basic web development you can learn to build them in ten minutes. If you are an advance engineer that knows React, you don’t have to learn anything new, everything will just work like you expect.
+All code in Framer is expressed in plain **React** using **JavaScript ES6**. A component can be as simple as just one html tag with some css, all the way to a very complex media player with rich interactions. This also means that people with a variety of skills can make components. If you know basic web development you can learn to build them in ten minutes. If you are an advanced engineer that knows React, you don’t have to learn anything new, everything will just work like you expect.
 
 **Note**: Under the hood Framer X actually uses [TypeScript](https://www.typescriptlang.org/), a typed version of JavaScript. Types help to manage larger applications and helps us to offer really great auto complete for editors, but for you they are completely optional, you can just write ES6 if you like.
 
@@ -29,7 +29,7 @@ All code in Framer is expressed in plain **React** using **JavaScript ES6**. A c
 
 ## Setup and Workflow
 
-Framer X relies on an external editor for writing code. Any editor will work, but we strongly suggest one that supports TypeScript \(for auto complete\). Our personal favorite by far is [VSCode by Microsoft](https://code.visualstudio.com/) with the optional [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) installed so your code always looks nice.  
+Framer X relies on an external editor for writing code. Any editor will work, but we strongly suggest one that supports TypeScript \(for auto complete\). Our personal favorite by far is [VSCode by Microsoft](https://code.visualstudio.com/) with the optional [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) installed so your code is always formatted consistently.  
   
 If you edit any Framer X code it automatically gets updated in Framer X when you save the file. So components get re-rendered on the canvas and in the preview, and functions get updated under the hood.   
   
