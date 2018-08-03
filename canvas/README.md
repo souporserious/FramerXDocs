@@ -1,9 +1,3 @@
----
-description: >-
-  Ground zero for experimenting with concepts and mocking up flows. Draw
-  directly on the canvas or insert device specific frames.
----
-
 # Canvas
 
 ## Canvas

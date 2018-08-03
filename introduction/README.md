@@ -1,11 +1,11 @@
----
-description: >-
-  Please note that these docs are a living document and each topic is a
-  work-in-progress and will be updated continuously. If you are missing any
-  content please check back in a few days.
----
-
 # Getting Started
+
+## Documentation
+
+Welcome to the Frame X Docs. This documentation should, when finished, include everything you need to know about our new product. 
+
+_We are still updating our docs. If you are missing any topics please let us know via support@framer.com and we will try to have it in here soon._   
+
 
 ## Minimum Requirements
 

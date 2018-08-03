@@ -1,7 +1,3 @@
----
-description: How to optimize your external React components for usage in Framer.
----
-
 # React Component Authors
 
 * How we render components on the canvas

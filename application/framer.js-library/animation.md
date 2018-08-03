@@ -2,8 +2,8 @@
 
 ## Overview
 
-In Framer X, you animate _values_ instead of _objects_. A value can be a number, color or even string. If you use these values on any Framer component \(like the left property of a Frame\) they will animate very efficiently.  
-  
+In Framer X, you animate _values_ instead of _objects_. A value can be a number, color or even string. If you use these values on any Framer component \(like the left property of a Frame\) they will animate very efficiently.
+
 The programming API for Framer Animations are loosely based on the standard [Web Animation API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API). It consists of the following parts:
 
 * **Animatable values**: the values that can be animated: number,  color and string.
@@ -54,10 +54,10 @@ There are three curves available:
 
 ## Events
 
-Events provide a powerful way to respond to changes in animations. This way you can build sequences or build non-linear flows, like when a user interrupts an animation.  
-  
-Events in Framer use a [modern JavaScript feature](https://medium.com/front-end-hacking/callbacks-promises-and-async-await-ad4756e01d90) called async and await. They are powerful primitives but you can simply think of them as ways to “wait until something happens” like an animation ending or being interrupted.  
-  
+Events provide a powerful way to respond to changes in animations. This way you can build sequences or build non-linear flows, like when a user interrupts an animation.
+
+Events in Framer use a [modern JavaScript feature](https://medium.com/front-end-hacking/callbacks-promises-and-async-await-ad4756e01d90) called async and await. They are powerful primitives but you can simply think of them as ways to “wait until something happens” like an animation ending or being interrupted.
+
 Let’s look at a simple example that waits for one animation to finish and then immediately starts a new one so it ends up where it began. We’ll use the async and await constructs to wait for the finish event.
 
 ```typescript
@@ -65,22 +65,22 @@ import * as React from "react";
 import { Frame, Animatable, animate } from "framer";
 
 export class Example extends React.Component {
-  
+
   left = Animatable(0);
-  
+
   onClick = async () => {
     await animate(this.left, 200).finish
     await animate(this.left, 0).finish
   };
-  
+
   render() {
     return <Frame left={this.left} onClick={this.onClick} />;
   }
 }
 ```
 
-When using `await` your function has to be marked `async`. This is how JavaScript works, so notice `async` next to the `onClick` function. From there you can see we use `await` with `.finish` on the animation to wait before running the next line of code, so that the animation only starts with the previous one is done. If you were to remove the await keywords, both animations would start immediately.  
-  
+When using `await` your function has to be marked `async`. This is how JavaScript works, so notice `async` next to the `onClick` function. From there you can see we use `await` with `.finish` on the animation to wait before running the next line of code, so that the animation only starts with the previous one is done. If you were to remove the await keywords, both animations would start immediately.
+
 The other available events are:
 
 * `start` – The animation was started \(this happens automatically if you use the `animate()` function.

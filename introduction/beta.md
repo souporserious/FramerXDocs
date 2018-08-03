@@ -1,10 +1,3 @@
----
-description: >-
-  Thanks and congratulations for being part of the Framer X beta and trying out
-  a truly new design tool. This guide should give you a great overview of what's
-  possible.
----
-
 # Beta Program
 
 ## Beta Program

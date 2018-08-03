@@ -1,9 +1,3 @@
----
-description: >-
-  If you are a current Framer user, this page will help you to get up and
-  running.
----
-
 # Starting from Framer
 
 **Warning:** _**in Beta 1, our code features are a work in progress and incomplete. Therefore it will be rough to replicate your classic Framer workflow in Framer X for another week or two. Thanks for your patience.**_

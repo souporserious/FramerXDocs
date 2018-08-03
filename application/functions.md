@@ -1,6 +1,6 @@
-# Functions 
+# Functions
 
-_(not yet available in beta 1)_
+_\(not yet available in beta 1\)_
 
 ## Use Case
 
@@ -20,8 +20,8 @@ _Developers: It’s important to keep everything as simple as possible for this 
 
 ## Usage
 
-Functions live in `/functions` in the [package](../packages.md). The default file is `/functions/app.tsx` with the three basic examples \(bounce, animate, toggle\). Any function in `/functions/*.tsx` will be automatically discovered.  
-  
+Functions live in `/functions` in the [package](../packages.md). The default file is `/functions/app.tsx` with the three basic examples \(bounce, animate, toggle\). Any function in `/functions/*.tsx` will be automatically discovered.
+
 The functions interface in the properties panel allows you to select a file with functions and bind a function to any frame. You can create functions yourself in your code editor, or install an example one to build on from our extensive catalog: animations, load data, communicate, etc. The catalog examples are installed in for example `/functions/animation.tsx`. From there you can freely edit and modify them.
 
 ## Concepts
@@ -109,7 +109,6 @@ animate.spring(app.panelLeft, 400)
 So now we have seen how to create a Data object, let’s use it in combination with a function to hide a status bar. We’re going to store and animate the top value in the data object.
 
 ```typescript
-
 import { Data, animate } from "framer"
 
 const app = new Data({statusTop: 48}) // We start by making it visible

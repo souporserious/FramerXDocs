@@ -11,12 +11,12 @@ Framer X uses code in a different way than you might be used to from a design to
 
 ## Types of Code
 
-Framer uses code in two distinct places: **components** and **functions**.  
-  
-[Components](components.md) are [React Components](https://reactjs.org/docs/thinking-in-react.html). They are parts of an interface that you can compose into large applications. The code that you typically write for components concern just that component. So for a slider, it would contain the code to draw the knob and rails, plus the code to handle the scrubbing, nothing more than that.  
-  
-[Functions](functions.md) facilitate communication between components. To turn components into an app, they need to communicate. So the slider has to maybe change the position of something. Functions allow you to override any properties before the components get previewed, update or respond to application state, and attach event handlers to make things interactive.  
-  
+Framer uses code in two distinct places: **components** and **functions**.
+
+[Components](components.md) are [React Components](https://reactjs.org/docs/thinking-in-react.html). They are parts of an interface that you can compose into large applications. The code that you typically write for components concern just that component. So for a slider, it would contain the code to draw the knob and rails, plus the code to handle the scrubbing, nothing more than that.
+
+[Functions](functions.md) facilitate communication between components. To turn components into an app, they need to communicate. So the slider has to maybe change the position of something. Functions allow you to override any properties before the components get previewed, update or respond to application state, and attach event handlers to make things interactive.
+
 **Note**: functions are very minimal on purpose so that you can use them any way you like, and do things like bring your own state management like Redux if you want, or no state management at all.
 
 ## Overview
@@ -29,25 +29,22 @@ All code in Framer is expressed in plain **React** using **JavaScript ES6**. A c
 
 ## Setup and Workflow
 
-Framer X relies on an external editor for writing code. Any editor will work, but we strongly suggest one that supports TypeScript \(for auto complete\). Our personal favorite by far is [VSCode by Microsoft](https://code.visualstudio.com/) with the optional [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) installed so your code is always formatted consistently.  
-  
-If you edit any Framer X code it automatically gets updated in Framer X when you save the file. So components get re-rendered on the canvas and in the preview, and functions get updated under the hood.   
-  
+Framer X relies on an external editor for writing code. Any editor will work, but we strongly suggest one that supports TypeScript \(for auto complete\). Our personal favorite by far is [VSCode by Microsoft](https://code.visualstudio.com/) with the optional [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) installed so your code is always formatted consistently.
+
+If you edit any Framer X code it automatically gets updated in Framer X when you save the file. So components get re-rendered on the canvas and in the preview, and functions get updated under the hood.
+
 If you get an error, the component will turn red and display the error message with optional suggestions where to look for the exact error. There are two types of errors:
 
 * **Syntax error** – You likely made a typo in your code and de computer does not understand it. The most common ones are capitalization errors, missing brackets or comma’s.
 * **Runtime error** – Something went wrong while running the code. This can be anything really.
 
-Errors are listed in the right bottom of your screen. To deeper investigate errors, you can use the [web inspector](https://developer.apple.com/safari/tools/) by clicking on the error counter, or right clicking in the Preview and choosing “Inspect Element”.  
-  
-_**TBD: Editing components from the store.**_  
-****  
-**Note**: we recommend a window manager utility like [Magnet](http://magnet.crowdcafe.com/) to help with managing your windows efficiently between code and canvas.  
-  
-**Note**: we might introduce a code editor back in Framer in the future, but for now we chose to focus on the rest of the app. Building an editor as great as VSCode is very hard, and we were noticing many users in legacy Framer already using their own editor, bypassing the built-in one.  
-  
-**Note**: Because the code runs in both the canvas and preview, there are two inspectors. You’ll likely most often need the one for preview.  
+Errors are listed in the right bottom of your screen. To deeper investigate errors, you can use the [web inspector](https://developer.apple.com/safari/tools/) by clicking on the error counter, or right clicking in the Preview and choosing “Inspect Element”.
 
+_**TBD: Editing components from the store.**_
 
+**Note**: we recommend a window manager utility like [Magnet](http://magnet.crowdcafe.com/) to help with managing your windows efficiently between code and canvas.
 
+**Note**: we might introduce a code editor back in Framer in the future, but for now we chose to focus on the rest of the app. Building an editor as great as VSCode is very hard, and we were noticing many users in legacy Framer already using their own editor, bypassing the built-in one.
+
+**Note**: Because the code runs in both the canvas and preview, there are two inspectors. You’ll likely most often need the one for preview.
 
