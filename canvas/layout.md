@@ -1,5 +1,9 @@
 # Layout
 
+## **Layout**
+
+Where Framer X starts to feel different is in the focus and power of its layout design feature set. Because our layout tool has been developed specifically for interactive design work it is able to make smart layout and hierarchy decisions for you. It intuitively guesses relative positioning and alignment making for a much more efficient flow when it comes to responsive design work.
+
 ## **Frames and Shapes**
 
 ![](../.gitbook/assets/frame-2x%20%282%29.png)

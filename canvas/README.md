@@ -2,11 +2,13 @@
 
 ## Canvas
 
-Your Canvas is ground zero for experimenting with concepts and mocking up flows. Draw directly on the canvas or insert device-specific frames.
+Your Canvas is ground zero for experimenting with concepts and mocking up flows. Draw directly on the canvas or insert device-specific frames. Use these docs to learn the basics of our interface and features.
 
-Framer offers a blank canvas to explore ideas through quick concepting, one-off mockups or to create advanced designs on. You can draw directly on the canvas, import images and insert icons. Or set up a series of frames to create a multi-screen app flow.
+Framer X its interface will be familiar to most, with a large canvas, device preview, and full-featured toolkit. Like many of the other graphics tools you already use, Framer offers the same insertable shapes and text, all easily styled using the properties panel.
 
-Designing on the canvas works great for smaller interactions, but we recommend using frames for complex and responsive app flows. No matter how you like to work, the canvas supports your design flow.[  
+It offers a blank canvas to explore ideas through quick concepts, one-off mockups or to create advanced designs on. You can draw directly on the canvas, import images and insert icons. Or set up a series of frames to create a multi-screen app flow.
+
+Designing on the canvas works great for smaller interactions, but we recommend using frames for complex and responsive app flows. No matter how you like to work, our canvas supports your design flow.[  
 ](https://framer.com/getstarted/guides/code/#preview)
 
 ## How it works
