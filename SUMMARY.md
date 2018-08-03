@@ -10,7 +10,7 @@
   * [Drawing](canvas/drawing-wip.md)
   * [Interactive](canvas/interactive.md)
   * [Properties](canvas/properties.md)
-  * [Additional Features](canvas/additional_features.md)
+  * [Additional Features](canvas/additional-Features.md)
   * [Design Components](canvas/design-components-wip.md)
   * [Import / Export](canvas/import-export.md)
 * [Preview](preview.md)
