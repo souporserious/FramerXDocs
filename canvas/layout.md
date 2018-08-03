@@ -86,7 +86,7 @@ Automatic distribution of your items is where the Stack tool really shines. Say 
 
 ### Nesting
 
-You can also nest stacks.
+You can even nest multiple stacks inside of a larger stack. Once grouped, you can re-arrange items within each individual stack but also within the larger grouped stack. 
 
 ## Tutorial
 
