@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Welcome to the Frame X Docs. This documentation should, when finished, include everything you need to know about our new product. 
+Welcome to the Framer X Docs. This documentation should, when finished, include everything you need to know about our new product. 
 
 _We are still updating our docs. If you are missing any topics please let us know via support@framer.com and we will try to have it in here soon._   
 
