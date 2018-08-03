@@ -25,6 +25,7 @@
     * [Components](application/framer.js-library/components.md)
     * [Events and Gestures](application/framer.js-library/events-and-gestures.md)
 * [Guides](guides-wip/README.md)
+  * [Shortcuts](guides-wip/shortcuts.md)
   * [React Component Authors](guides-wip/react-component-authors.md)
   * [Tutorials](guides-wip/tutorials/README.md)
     * [Todo App](guides-wip/tutorials/todo-app.md)
