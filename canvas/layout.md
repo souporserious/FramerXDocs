@@ -2,7 +2,7 @@
 
 ## **Frames and Shapes**
 
-![](../.gitbook/assets/frame-2x.png)
+![](../.gitbook/assets/frame-2x%20%282%29.png)
 
 In Framer there is a distinction between a Frame and a Shape. Let's dive into that a bit! 
 
