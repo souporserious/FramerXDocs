@@ -9,13 +9,12 @@ description: Use shortcuts on your keyboard in Framer X to help speed up your wo
 | Tools | Canvas |
 | :--- | :--- |
 |  `F`  Frame |  `⌘`  Select |
-|  `S`  Stack |  `⌘`   `+`  Zoom In |
-|  `T`  Text  |  `⌘`   `-`  Zoom Out |
-|  `L`  Link |  `⌘`   `0` Actual Size |
+|  `S`  Stack |  `Z`  Zoom |
+|  `T`  Text  |  `⌘`   `+`  Zoom In |
+|  `L`  Link |  `⌘`   `-`  Zoom Out  |
 |  `P`  Path |  `⌘`   `1`  Center Canvas |
-|  `R`  Rectangle |  `Space`    `Drag`  Pan Canvas |
-|  |  |
-|  |  |
+|  `R`  Rectangle |  `Space`    `Drag`  Pan \(Canvas\) |
+|  `O`  Oval |   |
 
 
 
