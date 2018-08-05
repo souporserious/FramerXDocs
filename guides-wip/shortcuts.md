@@ -12,9 +12,10 @@ description: Use shortcuts on your keyboard in Framer X to help speed up your wo
 |  `S`  Stack |  `Z`  Zoom |
 |  `T`  Text  |  `⌘`   `+`  Zoom In |
 |  `L`  Link |  `⌘`   `-`  Zoom Out  |
-|  `P`  Path |  `⌘`   `1`  Center Canvas |
-|  `R`  Rectangle |  `Space`    `Drag`  Pan \(Canvas\) |
-|  `O`  Oval |   |
+|  `P`  Path |  `⌘`   `O`  Reset Zoom |
+|  `R`  Rectangle |  `⌘`   `1`   Center Canvas |
+|  `O`  Oval |  `⌘`   `9`   Focus Canvas |
+|  | `⌘` `Drag` Pan |
 
 
 

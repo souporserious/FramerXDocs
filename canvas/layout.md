@@ -84,7 +84,7 @@ You can further customize your Stack by using the properties panel. If you want 
 
 ### Distribution
 
-Automatic distribution of your items is where the Stack tool really shines. Say youx have a menu and you wish to replace the order of the items in there. With Stacks it as simple as a drag-and-drop:
+Automatic distribution of your items is where the Stack tool really shines. Say you have a menu and you wish to replace the order of the items in there. With Stacks it as simple as a drag-and-drop:
 
 ![Framer rearranges the other icons while keeping the distribution and alignment intact.](../.gitbook/assets/stacks%20%281%29.png)
 
