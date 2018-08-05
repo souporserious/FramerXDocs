@@ -1,6 +1,8 @@
 # Functions
 
-_\(not yet available in beta 1\)_
+{% hint style="warning" %}
+Most features on this page are still in development and only become available in a later beta. Check the [features list here](../introduction/beta.md#beta-features).
+{% endhint %}
 
 ## Use Case
 

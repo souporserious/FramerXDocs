@@ -4,7 +4,7 @@
 
 Welcome to the Framer X Docs. This documentation should, when finished, include everything you need to know about our new product. 
 
-_We are still updating our docs. If you are missing any topics please let us know via support@framer.com and we will try to have it in here soon._   
+_We are still updating our docs. If you are missing any topics please let us know by_ [_filing an issue on Github_](https://github.com/framer/FramerXDocs/issues/new) _and we will try to have it in here soon._   
 
 
 ## Minimum Requirements

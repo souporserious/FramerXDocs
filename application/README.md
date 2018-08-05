@@ -1,5 +1,9 @@
 # Code
 
+{% hint style="warning" %}
+Some features on this page are still in development and only become available in a later beta. Check the [features list here](../introduction/beta.md#beta-features).
+{% endhint %}
+
 ## Code in Framer
 
 Framer X lets everyone do advanced interactive design without using a line of code; either by using the interactive tools, or by using components from the store that were built by others.   

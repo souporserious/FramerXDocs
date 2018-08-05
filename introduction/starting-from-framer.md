@@ -1,6 +1,8 @@
 # Starting from Framer
 
-**Warning:** _**in Beta 1, our code features are a work in progress and incomplete. Therefore it will be rough to replicate your classic Framer workflow in Framer X for another week or two. Thanks for your patience.**_
+{% hint style="warning" %}
+In Beta 1, our code features are a work in progress and incomplete. Therefore it will be rough to replicate your classic Framer workflow in Framer X for another week or two. Thanks for your patience.
+{% endhint %}
 
 ## Overview
 
@@ -16,7 +18,9 @@ We strongly believe Framer X is better as legacy Framer from a prototyper progra
 
 ### Workflow
 
-**Warning:** _**few of these steps are currently**_ ~~_**unavailable**_~~ _**in Beta 1. These steps are merely to illustrate what we're planning for release.**_
+{% hint style="warning" %}
+Some of these steps are currently ~~unavailable~~ in Beta 1. These steps are merely to illustrate what we're planning for release.
+{% endhint %}
 
 Make sure you setup VSCode for external editing.
 
@@ -58,9 +62,7 @@ _Declarative_ focuses purely on describing the dish and leaves it up to the make
 
 Computers are really great at figuring out steps between different states. So describing your interfaces declaratively and leaving the steps up to the computer is a great idea for building interfaces. This way you can just describe your states \(loading, error, login screen\), under which conditions to show them, and let the computer figure out the rest.
 
-#### 
 
-### FAQ
 
 
 

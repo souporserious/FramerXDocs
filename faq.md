@@ -6,7 +6,7 @@ Your current [individual Framer subscription](http://framer.com/pricing) will be
 
 ## Will there be a Windows version?
 
-We are currently working on Framer X for Windows, but it is decoupled from the beta so we can get it in your hands as fast as possible.
+We are currently working on Framer X for Windows, but it is decoupled from the beta so we can get it in your hands as fast as possible. [Sign up here](https://framer.com/forms/windows/) and we'll keep you updated.
 
 ## Can Framer X do what I did in Framer?
 

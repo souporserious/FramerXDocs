@@ -38,7 +38,7 @@ We will use your feedback to improve, accelerate the rollout and ensure the high
 * **First Experiences –** Things that seem odd when you explore the app for the first time, often things that are hard to still see for us.
 * **Real World Usage** – What do you run into when you try to build design systems, import existing components, etc.
 
-You can reach us via Facebook, Slack, Email or Twitter.
+You can reach us via [Facebook](https://www.facebook.com/groups/framer.x.feedback), Slack, Email or Twitter.
 
 ## Before You Begin
 
@@ -55,7 +55,7 @@ While Framer X looks very similar to other design tools on the surface, there ar
 
 ## Windows
 
-We are working on bringing Framer X to Windows as well. Sign up to our special Windows list to get a message once it is ready -&gt; [https://framer.com/forms/windows/](https://framer.com/forms/windows/)
+We are working on bringing Framer X to Windows as well. Sign up to our [special Windows](https://framer.com/forms/windows/) list to get a message as soon as it is ready.
 
 
 
