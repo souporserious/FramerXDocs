@@ -21,7 +21,10 @@ description: Use shortcuts on your keyboard in Framer X to help speed up your wo
 | :--- |
 |  `⌘`  `T`  Change typeface |
 |  `⌘`   `↑`  Decrease text size |
-|  `⌘`   `↓`   Increase text size |
+|  `⌘`   `↓`   Increase text siz`e` |
+|  `Select Text`   `⌘`   `U`   Underline text |
+|  `Select Text`   `⌘`   `I`   Italic text |
+|  `Select Text`   `⌘`   `B`   Bold text |
 
 
 
