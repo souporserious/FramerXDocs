@@ -33,10 +33,11 @@ If you are an individual that for any reason still cannot afford Framer please l
 
 ## Getting Help and Support
 
-* For general questions about the app and how to do something 
-* Contact our [support channel](mailto:support@framer.com) for private support. Please allow up to 48 hours for a response, we are still a small team.
+For questions on how to achieve something it's best to use the public [Framer group](https://www.facebook.com/groups/framerjs) or the [Framer X beta feedback group](https://www.facebook.com/groups/framer.x.feedback/) so others can learn from it too. You are free to [Tweet](http://twitter.com/framer) to us and we'll try to pick it up too.
 
+For general questions about the app and how to do something contact our [support channel](mailto:support@framer.com) for private support. Please allow up to 48 hours for a response, we are still a small team.
 
+_Note: Sorry about the Facebook only groups, but the combination of real identity and the format contribute to a thriving and welcome community._
 
 
 

@@ -6,9 +6,9 @@ Thanks for joining the beta program. This guide is very much a work in progress 
 
 ### The Best Way to Start; TLDR
 
-* Read how to think about Framer X and supported design work below.
+* Read [how to think about Framer X](https://framer.gitbook.io/framer/#how-to-think-about-framer-x) and supported design work below.
 * Read the [beta program page](introduction/beta.md) on what to expect in Beta 1. _**Hint**: some of the code parts are still in progress \(code functions, state\), and being offline will cause some issues._
-* Explore the canvas, automatic layout, styling, stacks, design components, flow and scroll interactions, using the store to install packages and build a simple React component yourself.
+* Explore the canvas, automatic layout, styling, stacks, design components, flow and scroll interactions, using the store to install packages and build a simple React component yourself, optionally with some [custom properties](application/components.md#adding-framer-interface-for-props) that you can configure from the Framer interface.
 
 ## How to Think About Framer X
 
@@ -18,7 +18,7 @@ Framer X is more like [Unity](https://unity3d.com/unity/editor) than like Photos
 
 Framer X is both the **most easy and most advanced** design tool. We think a subset of more advanced users will build components for everyone else, so the majority of users won’t write code, but visually compose interfaces with components built by others through the store. But if you enjoy writing code, Framer X will be the best environment to do so and we encourage everyone to explore it.
 
-The idea behind Framer X is **not to generate code for you**, but instead to use the code you \(or someone else\) wrote. Auto generated code almost never ends up in production, so it's better to have a tool use the code that is being used. If you already have React components built, they should work in Framer X with minimal effort.
+The idea behind Framer X is **not to generate code for you**, but instead to use the code you \(or someone else\) wrote. Auto generated code almost never ends up in production, so it's better to have a tool use the code that is being used. If you already have React components built, they should work in Framer X with minimal effort. That said, _everything_ you draw in Framer is a React component and exportable to `jsx`, `html` or static assets if you need it.
 
 ## Supported Design Workflows
 

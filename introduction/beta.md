@@ -2,7 +2,7 @@
 
 ## Beta Program
 
-The Framer X beta program was designed to both get feedback from our most advanced users and ensure the application is in a great state when released to the general public. The idea is to quickly invite new users as long as we don't run into serious technical or user experience issues that block usage.
+The Framer X beta program was designed to both [get feedback](https://www.facebook.com/groups/framer.x.feedback/) from our most advanced users and ensure the application is in a great state when released to the general public. The idea is to quickly invite new users as long as we don't run into serious technical or user experience issues that block usage.
 
 ## Beta Features
 
