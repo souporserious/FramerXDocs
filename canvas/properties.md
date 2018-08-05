@@ -23,6 +23,14 @@ You can easily align your layers \(Frames and Shapes\) by using our alignment fe
 
 You can alter the properties of your frame, such as changing its fill color, size or position. To test the responsive nature of your frames, select one or more at a time to bring up its properties, then switch devices. If all your content is correctly aligned, it will automatically adapt to the new dimensions of your frame.
 
+
+
+## Overflow
+
+If a layer is going to fall outside of the dimensions of your Frame then you can choose to either display or hide the overflow:
+
+![](../.gitbook/assets/overflow.png)
+
 ## **Layer Styling**
 
 To view the styling properties of your layers, you can select one or more layers in the layer list or highlight them directly on your canvas. Framer contains all of the styling properties you would expect from a modern design tool.
