@@ -17,5 +17,11 @@ description: Use shortcuts on your keyboard in Framer X to help speed up your wo
 |  `O`  Oval |  `⌘`   `9`   Focus Canvas |
 |  | `⌘` `Drag` Pan |
 
+| Text |
+| :--- |
+|  `⌘`  `T`  Change typeface |
+|  `⌘`   `↑`  Decrease text size |
+|  `⌘`   `↓`   Increase text size |
+
 
 
