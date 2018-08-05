@@ -53,5 +53,9 @@ While Framer X looks very similar to other design tools on the surface, there ar
   * Temporarily disable the hierarchy guessing system while manipulating objects.
 * Learn how to import your designs from Sketch through copy paste.
 
+## Windows
+
+We are working on bringing Framer X to Windows as well. Sign up to our special Windows list to get a message once it is ready -&gt; [https://framer.com/forms/windows/](https://framer.com/forms/windows/)
+
 
 
