@@ -24,7 +24,7 @@ Borders lets you add a border around any layer you create in Framer. You can con
 
 Framer allows you to shadows to your desired layer. From outer to inner shadows, you can stack a combination of as many shadows as you want.
 
-**Effects** 
+### **Effects** 
 
 Effects add an extra set of styling capabilities, including blending modes to blend layers and colors, object blur to blur an entire object, or background blur to blur the layers behind it. There are also filters like Contrast, Grayscale, Hue Rotate, Invert, Saturate and Sepia, for enhanced photo editing.
 
