@@ -5,6 +5,7 @@
   * [Beta Program](introduction/beta.md)
   * [Starting from Framer](introduction/starting-from-framer.md)
   * [Starting from ...](introduction/starting-from-....md)
+  * [Code Editor](introduction/code-editor.md)
 * [Canvas](canvas/README.md)
   * [Layout](canvas/layout.md)
   * [Drawing](canvas/drawing-wip.md)
