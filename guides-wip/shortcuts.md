@@ -1,7 +1,3 @@
----
-description: Use shortcuts on your keyboard in Framer X to help speed up your workflow.
----
-
 # Shortcuts
 
 
