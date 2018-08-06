@@ -50,5 +50,9 @@ You can currently only access `props.children` but we're working on better ways 
 
 Right now, packages are binary zipped files and not great for Git. We're looking to improve that in the future and we think we can, because Git is smart.
 
+## What will happen to Framer Studio?
+
+We will keep supporting and updating Framer Studio once we release Framer X so that you can continue to open and edit all your previous projects, but our main focus will shift towards Framer X.
+
 
 
