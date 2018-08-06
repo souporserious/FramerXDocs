@@ -83,7 +83,7 @@ Components fully behave like you would expect in the Preview, but a bit differen
 
 ### Layout and Sizing
 
-Every component rendered on the canvas or preview is wrapped in a Frame so they have the same layout rules as anything else on the canvas. Both the width and heigh are passed to the code component as props so you can use them.
+Every component rendered on the canvas or preview is wrapped in a Frame so they have the same layout rules as anything else on the canvas. Both the width and height are passed to the code component as props so you can use them.
 
 ```typescript
 import * as React from "react";
