@@ -4,7 +4,7 @@
 
 Unlike Framer Studio, Framer X will no longer feature a code tab . Instead, you are now free to use whatever code editor you prefer as Framer will automatically choose the code editor you have selected as your default in your system preferences. If no app is selected as your default then Framer will try to open your code components with [Visual Studio Code](https://code.visualstudio.com/download).
 
-## Updating your default
+## Updating your default code editor
 
 * Go to a  `.TSX`  file
 * Right-click and choose  `Get Info` 

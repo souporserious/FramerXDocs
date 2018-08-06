@@ -97,7 +97,6 @@ export class Example extends React.Component<{width:number, height: number}> {
     );
   }
 }
-
 ```
 
 _Note: the TypeScript type annotations \(width, height\) are optional, but nice._
@@ -123,10 +122,9 @@ export class Example extends React.Component<{width:number, height: number}> {
     );
   }
 }
-
 ```
 
-Framer  detects you are using the props.children property in your render method and automatically adds a connector to each instance of the component on your canvas \(a purple dot on the right side, like the scroll tool\). You can drag a connection from this connector to any Frame on the canvas and it will use it as its children to render.
+Framer detects you are using the props.children property in your render method and automatically adds a connector to each instance of the component on your canvas \(a purple dot on the right side, like the scroll tool\). You can drag a connection from this connector to any Frame on the canvas and it will use it as its children to render.
 
 _Hint: you can even override the props for the children by using React.Children.Map and React.Children.cloneElement methods._
 
@@ -151,7 +149,7 @@ interface Props {
 }
 
 export class Example extends React.Component<Partial<Props>> {
-    
+
     static defaultProps = {
         title: "A short description of the actions goes here.",
         tintColor: "#007AFF",
