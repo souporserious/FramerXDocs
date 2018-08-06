@@ -35,5 +35,5 @@ We created our Drawing tool with output as top of mind. Being both SVG-driven an
 
 ## Tutorial
 
-Find out more about our Drawing tools via our YouTube channel: [https://www.youtube.com/watch?v=X0CRhT2WZZ0&list=PL9p5auxyrweNVMAzsrEd9DmsM25U8ij1M&index=4&t=0s](https://www.youtube.com/watch?v=X0CRhT2WZZ0&list=PL9p5auxyrweNVMAzsrEd9DmsM25U8ij1M&index=4&t=0s)
+Find out more about our Drawing tools via our YouTube channel: [https://www.youtube.com/watch?v=iHwjBd8pkDM&list=PL9p5auxyrweNVMAzsrEd9DmsM25U8ij1M&index=3](https://www.youtube.com/watch?v=iHwjBd8pkDM&list=PL9p5auxyrweNVMAzsrEd9DmsM25U8ij1M&index=3)
 
