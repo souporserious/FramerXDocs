@@ -8,6 +8,10 @@ Your current [individual Framer subscription](http://framer.com/pricing) will be
 
 We are currently working on Framer X for Windows, but it is decoupled from the beta so we can get it in your hands as fast as possible. [Sign up here](https://framer.com/forms/windows/) and we'll keep you updated.
 
+## Why do I not have my beta access yet?
+
+To maintain stability and offer a great experience we are rolling out our Beta access in batches and are ramping up the batches day by day. If you are subscribed to [Beta Access list](https://framer.com/x) then your invite will follow soon.
+
 ## Can Framer X do what I did in Framer?
 
 Yes, even better. But the current beta does [not include all functionality](https://github.com/framer/FramerXDocs/tree/cd44d327c254f01f5aa0ca8c776f78989de1ca3a/faq/introduction/beta.md#feature-overview) yet because we're still working on some code features. They will land in the next beta versions.
