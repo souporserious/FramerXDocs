@@ -178,6 +178,10 @@ Framer X main use case is prototyping, which typically includes flows, scrolling
 
 WIP, not in Beta 1. But you can find hints in the package guide.
 
+## Using Asset from Components
+
+WIP, not in Beta 1.
+
 ## Editing Components from Packages
 
 WIP, not in Beta 1.
