@@ -33,5 +33,5 @@
     * [Scroll Header](guides-wip/tutorials/scroll-header.md)
     * [Login Form](guides-wip/tutorials/login-form.md)
     * [Bottom Tab Bar](guides-wip/tutorials/bottom-tab-bar.md)
-* [FAQ](faq.md)
+* [FAQ](faq/README.md)
 
