@@ -34,5 +34,6 @@
     * [Login Form](guides-wip/tutorials/login-form.md)
     * [Bottom Tab Bar](guides-wip/tutorials/bottom-tab-bar.md)
 * [Troubleshooting](troubleshooting.md)
+  * [.framerx issues](troubleshooting/framerx-issues.md)
 * [Faq](faq.md)
 
