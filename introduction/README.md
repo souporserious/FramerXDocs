@@ -13,11 +13,11 @@ In order to use the latest version of Framer, you must be running Mac OS X El Ca
 
 ## Getting Framer
 
-### Downloading Framer X {#downloading-sketch}
+### Downloading Framer X
 
 During beta, Framer X will be invite only.
 
-### Framer Subscription {#downloading-sketch}
+### Framer Subscription
 
 Framer subscriptions come in three different variations. You can find our current pricing and features at our [pricing page](https://framer.com/pricing).
 
