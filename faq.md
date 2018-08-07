@@ -1,4 +1,4 @@
-# Faq
+# FAQ
 
 ## Can I buy Framer X today?
 

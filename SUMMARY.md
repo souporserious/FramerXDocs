@@ -34,5 +34,5 @@
     * [Bottom Tab Bar](guides-wip/tutorials/bottom-tab-bar.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [.framerx issues](troubleshooting/framerx-issues.md)
-* [Faq](faq.md)
+* [FAQ](faq.md)
 
