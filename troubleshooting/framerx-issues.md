@@ -12,5 +12,5 @@ To mimimize the odds of permanently losing data if something goes wrong with you
 
 * Move aside a copy of your  `.framerx`  file and of the corresponding package folder. Do **not** save or close your document before you have backed up these items. Compress them in the Finder to make sure they stay fully intact.
 * If you think you lost canvas data, this is saved in **design/document.json**. Inspect if the file seems to contain your data or not. If missing or empty, you can still restore an older version from the automatic backup. To find them, make sure you're in the **package** folder in Finder. Choose **Go &gt; Go to Folder…** and enter ".backups". Click **Go** and you will see the list of backup zips Framer made. Find one where the document.json still contains your canvas information.
-* Contact us! Please include the backed up  `.framerx`  file and **package** folder and we'll help you out best we can.
+* If this does not help then please [contact us](https://framer.gitbook.io/framer/introduction#getting-help-and-support) and include the backed up  `.framerx`  file and **package** folder and we'll help you out best we can.
 
