@@ -33,15 +33,36 @@ All code in Framer is expressed in plain **React** using **JavaScript ES6**. A c
 
 **Note**: Although there might be a way to create React Native applications in Framer in the future, we don’t offer an official way today. You are of course free to explore how far you can come yourself. Our open source Framer library should contain everything you need to get started.
 
-## Setup and Workflow
+## Setup
 
-Framer X relies on an external editor for writing code. Any editor will work, but we strongly suggest one that supports TypeScript \(for auto complete\). Our personal favorite by far is [VSCode by Microsoft](https://code.visualstudio.com/) with the optional [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) installed so your code is always formatted consistently.
+Framer X relies on an external editor for writing code. Any editor will work, but we strongly suggest one that supports TypeScript \(for auto complete\). Our personal favourite by far is [VSCode by Microsoft](https://code.visualstudio.com/) with the optional [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) installed so your code is always formatted consistently.
+
+### Changing your default editor
+
+* Go to a  `.TSX`  file
+* Right-click and choose  `Get Info` 
+* At the   `Open With`  section you can select the desired app you wish to use as your default.
+* Last but not least, click  `Change All`  and then choose  `Continue` 
+
+{% hint style="warning" %}
+You may have to restart your editor in order for Framer X to notice the new default choice.
+{% endhint %}
+
+### Themes
+
+Framer has created the Syntax Theme: awesome looking themes for both Visual Studio Code and Atom, so that you can code your components in true Framer style.
+
+* [Find out more about the Syntax Theme](https://framer.com/free-syntax-theme/)
+* [Download the theme from the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax)
+* [Download the theme from Atom Themes](https://atom.io/themes/framer-syntax) 
+
+## Workflow
 
 If you edit any Framer X code it automatically gets updated in Framer X when you save the file. So components get re-rendered on the canvas and in the preview, and functions get updated under the hood.
 
 If you get an error, the component will turn red and display the error message with optional suggestions where to look for the exact error. There are two types of errors:
 
-* **Syntax error** – You likely made a typo in your code and de computer does not understand it. The most common ones are capitalization errors, missing brackets or comma’s.
+* **Syntax error** – You likely made a typo in your code and de computer does not understand it. The most common ones are capitalisation errors, missing brackets or comma’s.
 * **Runtime error** – Something went wrong while running the code. This can be anything really.
 
 Errors are listed in the right bottom of your screen. To deeper investigate errors, you can use the [web inspector](https://developer.apple.com/safari/tools/) by clicking on the error counter, or right clicking in the Preview and choosing “Inspect Element”.
