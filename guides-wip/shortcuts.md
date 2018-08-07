@@ -17,7 +17,7 @@
 | :--- |
 |  `⌘`  `T`  Change typeface |
 |  `⌘`   `↑`  Decrease text size |
-|  `⌘`   `↓`   Increase text siz`e` |
+|  `⌘`   `↓`   Increase text size |
 |  `Select Text`   `⌘`   `U`   Underline text |
 |  `Select Text`   `⌘`   `I`   Italic text |
 |  `Select Text`   `⌘`   `B`   Bold text |
