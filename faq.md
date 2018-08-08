@@ -58,3 +58,7 @@ Right now, packages are binary zipped files and not great for Git. We're looking
 
 We will keep supporting and updating Framer Studio once we release Framer X so that you can continue to open and edit all your previous projects, but our main focus will shift towards Framer X.
 
+## Can I open Framer Studio .framer documents?
+
+Some might work for the design side only, but this is very buggy. It's better to create a new project and copy over all your Frames.
+

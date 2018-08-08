@@ -15,6 +15,7 @@
     * Should account for preview scale \(css transform\)
   * Styling
     * Inline styling preferred, but everything else should work, we might limit inserting arbitrary css \(glamour, styled components\) in the future.
+    * Media queries only work well in the preview, as the canvas lives in an entire window by itself, so queries respond to the whole window instead of the root Frame \(artboard\). 
 * Publishing existing components to our store
   * Anatomy of a package \(zipped js project with package.json\)
   * Add your components as a dependency
