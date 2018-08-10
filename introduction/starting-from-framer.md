@@ -62,9 +62,3 @@ _Declarative_ focuses purely on describing the dish and leaves it up to the make
 
 Computers are really great at figuring out steps between different states. So describing your interfaces declaratively and leaving the steps up to the computer is a great idea for building interfaces. This way you can just describe your states \(loading, error, login screen\), under which conditions to show them, and let the computer figure out the rest.
 
-
-
-
-
-
-

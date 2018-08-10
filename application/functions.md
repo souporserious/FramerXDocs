@@ -22,7 +22,7 @@ _Developers: It’s important to keep everything as simple as possible for this 
 
 ## Usage
 
-Functions live in `/functions` in the [package](../packages.md). The default file is `/functions/app.tsx` with the three basic examples \(bounce, animate, toggle\). Any function in `/functions/*.tsx` will be automatically discovered.
+Functions live in `/functions` in the [package](packages.md). The default file is `/functions/app.tsx` with the three basic examples \(bounce, animate, toggle\). Any function in `/functions/*.tsx` will be automatically discovered.
 
 The functions interface in the properties panel allows you to select a file with functions and bind a function to any frame. You can create functions yourself in your code editor, or install an example one to build on from our extensive catalog: animations, load data, communicate, etc. The catalog examples are installed in for example `/functions/animation.tsx`. From there you can freely edit and modify them.
 

@@ -19,7 +19,7 @@ Framer X uses code in a different way than you might be used to from a design to
 
 Framer uses code in two distinct places: **components** and **functions**.
 
-[Components](components.md) are [React Components](https://reactjs.org/docs/thinking-in-react.html). They are parts of an interface that you can compose into large applications. The code that you typically write for components concern just that component. So for a slider, it would contain the code to draw the knob and rails, plus the code to handle the scrubbing, nothing more than that.
+[Components](../components-1/) are [React Components](https://reactjs.org/docs/thinking-in-react.html). They are parts of an interface that you can compose into large applications. The code that you typically write for components concern just that component. So for a slider, it would contain the code to draw the knob and rails, plus the code to handle the scrubbing, nothing more than that.
 
 [Functions](functions.md) facilitate communication between components. To turn components into an app, they need to communicate. So the slider has to maybe change the position of something. Functions allow you to override any properties before the components get previewed, update or respond to application state, and attach event handlers to make things interactive.
 
