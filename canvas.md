@@ -4,9 +4,9 @@
 
 Your Canvas is ground zero for experimenting with concepts and mocking up flows. Draw directly on the canvas or insert device-specific frames. Use these docs to learn the basics of our interface and features.
 
-Framer X its interface will be familiar to most, with a large canvas, device preview, and full-featured toolkit. Like many of the other graphics tools you already use, Framer offers the same insertable shapes and text, all easily styled using the properties panel.
+The Framer X interface will be familiar to most, with a large canvas, device preview, and full-featured toolkit. Like many of the other graphics tools you already use, Framer X offers the same insertable shapes and text, all easily styled using the properties panel.
 
-It offers a blank canvas to explore ideas through quick concepts, one-off mockups or to create advanced designs on. You can draw directly on the canvas, import images and insert icons. Or set up a series of frames to create a multi-screen app flow.
+It offers a blank canvas to explore ideas through quick concepts, one-off mockups, or to create advanced designs on. You can draw directly on the canvas, import images, and insert icons. Or set up a series of frames to create a multi-screen app flow.
 
 Designing on the canvas works great for smaller interactions, but we recommend using frames for complex and responsive app flows. No matter how you like to work, our canvas supports your design flow.[  
 ](https://framer.com/getstarted/guides/code/#preview)
@@ -27,7 +27,7 @@ You can use the Zoom tool \(or use the shorthand "Z"\) to quickly zoom in and ou
 
 ### Direct selection
 
-You can easily select any layer on the Canvas by simply clicking on them. Often, you know exactly which layer you want to select. In those cases we allow you to speed up the process and hold CMD while you make your selection so that you are able to directly select that Frame inside of another Frame its Frame.
+You can easily select any layer on the Canvas by simply clicking it. Quickly access nested layers by holding CMD while making your selection to directly select a layer.
 
 ![](.gitbook/assets/canvas-direct-selection-2x.jpg)
 
@@ -45,7 +45,7 @@ When you reach just outside of one of the four handles of your Frame or Shape yo
 
 ### Radius
 
-Go into the corner of a Frame or Shape and click the the circle: you will now be able to drag it to the center or from it to adjust the radius of the object. Alternatively, you can do this in the properties panel under _Radius_.
+Go into the corner of a Frame or Shape and click the circle: you will now be able to drag the circle towards either the center or away from it to adjust the radius of the object. Alternatively, you can do this in the properties panel under _Radius_.
 
 ![](.gitbook/assets/canvas-radius-2x.jpg)
 
