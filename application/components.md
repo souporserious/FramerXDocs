@@ -2,7 +2,7 @@
 
 ## Conceptual
 
-Components are like lego for your interface. They are small building blocks that you can compose into larger ones, making up entire screens, interfaces and apps.
+Components are like legos for your interface. They are small building blocks that you can compose into larger ones, making up entire screens, interfaces and apps.
 
 As a designer, you might have different definitions of components as most visual tools treat components as pictures of real components. In Framer X, the components are all real. They scroll, click, move and handle input, all backed by the popular React JavaScript framework for building interfaces.
 
@@ -67,7 +67,7 @@ export class Example extends React.Component {
 }
 ```
 
-This should look very familiar if you have done web development before, and it's a full blown React components. From here, I would recommend to continue to learn React from their [excellent documentation](http://reactjs.com).
+This should look very familiar if you have done web development before, and it's a full blown React component. From here, I would recommend to continue to learn React from their [excellent documentation](http://reactjs.com).
 
 ## Creating a Code Component
 
@@ -134,7 +134,7 @@ WIP: not in Beta 1. Basically import any design component from code by name.
 
 ## Adding Framer Interface for Props
 
-You can describe custom interface for your components so component consumers can configure them on the canvas. The only thing you have to do is to add a static `propertyControls` method to your class with a descriptor. It will `defaultProps` for the defaults and try to type check your descriptors if you added type annotations for your props.
+You can describe a custom interface for your components so component consumers can configure them on the canvas. The only thing you have to do is add a static `propertyControls` method to your class with a descriptor. It will use `defaultProps` for the defaults and try to type check your descriptors if you added type annotations for your props.
 
 The example below is an excerpt of our iOS Alert component using a color, string and boolean control.
 
@@ -170,7 +170,7 @@ export class Example extends React.Component<Partial<Props>> {
 
 React components can do pretty much anything, but React itself is purely focused on composing interfaces from components. To do anything else, from managing application state to drawing graphs, it is very common to leverage other libraries.
 
-Framer X main use case is prototyping, which typically includes flows, scrolling, animations and gestures. Framer X includes an optional library of helpers called Framer.js for these tasks. Using these is not required, you can use anything you like, but they should make interactive prototyping more enjoyable in most cases.
+The main use case of Framer X is prototyping, which typically includes flows, scrolling, animations and gestures. Framer X includes an optional library of helpers called Framer.js for these tasks. Using these is not required, you can use anything you like, but they should make interactive prototyping more enjoyable in most cases.
 
 [Learn more about how to use the Framer.js library.](framer.js-library/animation.md)
 
@@ -185,4 +185,3 @@ WIP, not in Beta 1.
 ## Editing Components from Packages
 
 WIP, not in Beta 1.
-

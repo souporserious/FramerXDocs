@@ -44,7 +44,7 @@ Everything in Framer X is based on React, a popular but very minimal interface f
 * A set of agreements to describe components.
 * A structured, _declarative_ way to reason about your interface.
 
-These ideas are the things that make React great \(and so popular\). They're not new and will be around for a long time, independent of the implementations of the ideas \(the specific framework\). So just think of React as a seat of great ideas to build interfaces.
+These ideas are the things that make React great \(and so popular\). They're not new and will be around for a long time, independent of the implementations of the ideas \(the specific framework\). So just think of React as a set of great ideas to build interfaces.
 
 Additional great reasons to build on React are that it's _extremely easy to learn_, if you know basic web development \(html and css\) it's enough to build your own component. Plus, if you happen to work at a place that uses React in production too, there is a chance you can efficiently share code.
 
